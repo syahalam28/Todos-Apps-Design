@@ -1,0 +1,50 @@
+[
+  {
+    "merchantId": 1,
+    "merchantName": "Flutter Apps Desain",
+    "merchantAddress": "Todo Apps",
+    "long": "12.3456789",
+    "lat": "98736389849",
+    "image": "https://img.freepik.com/free-vector/gradient-indonesian-national-education-day-illustration_23-2148904434.jpg?size=338&ext=jpg&ga=GA1.2.1763479514.1667833205&semt=sph"
+  },
+  {
+    "merchantId": 2,
+    "merchantName": "Java & J2EE",
+    "merchantAddress": "BSR System",
+    "long": "12.3456789",
+    "lat": "98736389849",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-literature-poster-template_23-2149724000.jpg?size=338&ext=jpg&ga=GA1.2.1763479514.1667833205&semt=sph"
+  },
+  {
+    "merchantId": 3,
+    "merchantName": "Mobile Design",
+    "merchantAddress": "Design",
+    "long": "12.3456789",
+    "lat": "98736389849",
+    "image": "https://img.freepik.com/free-vector/book-concept-illustration_1284-6971.jpg?size=338&ext=jpg&ga=GA1.2.1763479514.1667833205&semt=sph"
+  },
+  {
+    "merchantId": 4,
+    "merchantName": "Python Learning",
+    "merchantAddress": "Ticket One ",
+    "long": "12.3456789",
+    "lat": "98736389849",
+    "image": "https://img.freepik.com/free-psd/softcover-book-cover-mockup_337857-300.jpg?size=626&ext=jpg&ga=GA1.2.1763479514.1667833205&semt=sph"
+  },
+  {
+    "merchantId": 5,
+    "merchantName": "Machine Learning",
+    "merchantAddress": "Almost Done",
+    "long": "12.3456789",
+    "lat": "98736389849",
+    "image": "https://img.freepik.com/free-psd/mockup-half-open-book-standing-light-background_125540-1471.jpg?size=626&ext=jpg&ga=GA1.2.1763479514.1667833205&semt=sph"
+  },
+  {
+    "merchantId": 6,
+    "merchantName": "Deep Learning",
+    "merchantAddress": "Almost Done",
+    "long": "12.3456789",
+    "lat": "98736389849",
+    "image": "https://img.freepik.com/free-psd/mockup-half-open-book-standing-light-background_125540-1471.jpg?size=626&ext=jpg&ga=GA1.2.1763479514.1667833205&semt=sph"
+  }
+]
